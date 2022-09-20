@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring-04-Autowiring/spring-04-Autowiring.iml" filepath="$PROJECT_DIR$/spring-04-Autowiring/spring-04-Autowiring.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-05-Core-Abstraction/spring-05-Core-Abstraction.iml" filepath="$PROJECT_DIR$/spring-05-Core-Abstraction/spring-05-Core-Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-06-Core-BeanScope/spring-06-Core-BeanScope.iml" filepath="$PROJECT_DIR$/spring-06-Core-BeanScope/spring-06-Core-BeanScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-07-SpringBoot-Demo/spring-07-SpringBoot-Demo.iml" filepath="$PROJECT_DIR$/spring-07-SpringBoot-Demo/spring-07-SpringBoot-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-08-MVC-controller/spring-08-MVC-controller.iml" filepath="$PROJECT_DIR$/spring-08-MVC-controller/spring-08-MVC-controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-training-git.iml" filepath="$PROJECT_DIR$/.idea/spring-training-git.iml" />
     </modules>
   </component>
