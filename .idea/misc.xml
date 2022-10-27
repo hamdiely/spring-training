@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/spring-01-Core-IoC-Bean-Annotation/pom.xml" />
         <option value="$PROJECT_DIR$/spring-07-SpringBoot-Demo/pom.xml" />
         <option value="$PROJECT_DIR$/spring-08-MVC-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-09-MVC-Model/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-10-Thymeleaf/pom.xml" />
       </list>
     </option>
   </component>
