@@ -7,15 +7,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-02-Core-IoC-Stereotype-Annotation" />
+        <module name="spring-10-Thymeleaf" />
+        <module name="spring-13-Data-CinemaLab" />
+        <module name="spring-11-Data-TableCreation" />
         <module name="spring-03-Wiring" />
+        <module name="spring-01-Core-IoC-Bean-Annotation" />
+        <module name="spring-05-Core-Abstraction" />
+        <module name="spring-09-MVC-Model" />
+        <module name="spring-00-coupling" />
+        <module name="Spring-15-REST" />
+        <module name="Spring-16-REST-Jackson" />
+        <module name="spring-02-Core-IoC-Stereotype-Annotation" />
+        <module name="spring-12-Data-Relationship" />
+        <module name="spring-14-Data-Queries" />
         <module name="spring-04-Autowiring" />
         <module name="spring-06-Core-BeanScope" />
         <module name="spring-07-SpringBoot-Demo" />
-        <module name="spring-01-Core-IoC-Bean-Annotation" />
-        <module name="spring-05-Core-Abstraction" />
         <module name="spring-08-MVC-controller" />
-        <module name="spring-00-coupling" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -28,12 +36,28 @@
       <module name="spring-06-Core-BeanScope" target="11" />
       <module name="spring-07-SpringBoot-Demo" target="11" />
       <module name="spring-08-MVC-controller" target="11" />
+      <module name="spring-09-MVC-Model" target="11" />
+      <module name="spring-10-Thymeleaf" target="11" />
+      <module name="spring-11-Data-TableCreation" target="11" />
+      <module name="spring-12-Data-Relationship" target="11" />
+      <module name="spring-13-Data-CinemaLab" target="11" />
+      <module name="spring-14-Data-Queries" target="11" />
+      <module name="Spring-15-REST" target="11" />
+      <module name="Spring-16-REST-Jackson" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Spring-15-REST" options="-parameters" />
+      <module name="Spring-16-REST-Jackson" options="-parameters" />
       <module name="spring-07-SpringBoot-Demo" options="-parameters" />
       <module name="spring-08-MVC-controller" options="-parameters" />
+      <module name="spring-09-MVC-Model" options="-parameters" />
+      <module name="spring-10-Thymeleaf" options="-parameters" />
+      <module name="spring-11-Data-TableCreation" options="-parameters" />
+      <module name="spring-12-Data-Relationship" options="-parameters" />
+      <module name="spring-13-Data-CinemaLab" options="-parameters" />
+      <module name="spring-14-Data-Queries" options="-parameters" />
     </option>
   </component>
 </project>
