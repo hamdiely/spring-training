@@ -36,5 +36,7 @@ public class CourseController_ResponseWrapper {
     public ResponseEntity<ResponseWrapper> getCourseById(@PathVariable("id") long courseId){
         return  ResponseEntity.ok(new ResponseWrapper("course: "+ courseId+ " retrieved", courseService.getCourseById(courseId)));
 
+
+
     }
 }
