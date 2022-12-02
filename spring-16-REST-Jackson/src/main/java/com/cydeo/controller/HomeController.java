@@ -25,9 +25,8 @@ public class HomeController {
         return userService.getUsers();
     }
 
-    @GetMapping("accounts")
+    @GetMapping("/accounts")
     public List<AccountDTO> readAllAccounts() {
         return accountService.getAccounts();
     }
-
 }

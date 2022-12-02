@@ -10,20 +10,22 @@
         <module name="spring-10-Thymeleaf" />
         <module name="spring-13-Data-CinemaLab" />
         <module name="spring-11-Data-TableCreation" />
+        <module name="spring-17-REST-ConsumingApis" />
         <module name="spring-03-Wiring" />
         <module name="spring-01-Core-IoC-Bean-Annotation" />
         <module name="spring-05-Core-Abstraction" />
+        <module name="Spring-18-REST-OpenAPI3" />
         <module name="spring-09-MVC-Model" />
         <module name="spring-00-coupling" />
         <module name="Spring-15-REST" />
         <module name="Spring-16-REST-Jackson" />
+        <module name="spring-18-REST-SchoolLab" />
         <module name="spring-02-Core-IoC-Stereotype-Annotation" />
         <module name="spring-12-Data-Relationship" />
         <module name="spring-14-Data-Queries" />
         <module name="spring-04-Autowiring" />
         <module name="spring-06-Core-BeanScope" />
         <module name="spring-07-SpringBoot-Demo" />
-        <module name="spring-17-RestConsumingApis" />
         <module name="spring-08-MVC-controller" />
       </profile>
     </annotationProcessing>
@@ -45,13 +47,17 @@
       <module name="spring-14-Data-Queries" target="11" />
       <module name="Spring-15-REST" target="11" />
       <module name="Spring-16-REST-Jackson" target="11" />
+      <module name="spring-17-REST-ConsumingApis" target="11" />
       <module name="spring-17-RestConsumingApis" target="17" />
+      <module name="Spring-18-REST-OpenAPI3" target="11" />
+      <module name="spring-18-REST-SchoolLab" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Spring-15-REST" options="-parameters" />
       <module name="Spring-16-REST-Jackson" options="-parameters" />
+      <module name="Spring-18-REST-OpenAPI3" options="-parameters" />
       <module name="spring-07-SpringBoot-Demo" options="-parameters" />
       <module name="spring-08-MVC-controller" options="-parameters" />
       <module name="spring-09-MVC-Model" options="-parameters" />
@@ -60,7 +66,9 @@
       <module name="spring-12-Data-Relationship" options="-parameters" />
       <module name="spring-13-Data-CinemaLab" options="-parameters" />
       <module name="spring-14-Data-Queries" options="-parameters" />
+      <module name="spring-17-REST-ConsumingApis" options="-parameters" />
       <module name="spring-17-RestConsumingApis" options="-parameters" />
+      <module name="spring-18-REST-SchoolLab" options="-parameters" />
     </option>
   </component>
 </project>
