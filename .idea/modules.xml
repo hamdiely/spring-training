@@ -22,6 +22,9 @@
       <module fileurl="file://$PROJECT_DIR$/spring-14-Data-Queries/spring-14-Data-Queries.iml" filepath="$PROJECT_DIR$/spring-14-Data-Queries/spring-14-Data-Queries.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-17-REST-ConsumingApis/spring-17-REST-ConsumingApis.iml" filepath="$PROJECT_DIR$/spring-17-REST-ConsumingApis/spring-17-REST-ConsumingApis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-18-REST-SchoolLab/spring-18-REST-SchoolLab.iml" filepath="$PROJECT_DIR$/spring-18-REST-SchoolLab/spring-18-REST-SchoolLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-20-REST-Security-Keycloak-LicenseApp/spring-20-REST-Security-Keycloak-LicenseApp.iml" filepath="$PROJECT_DIR$/spring-20-REST-Security-Keycloak-LicenseApp/spring-20-REST-Security-Keycloak-LicenseApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-20-REST-Security-Keycloak-OrganizationsApp/spring-20-REST-Security-Keycloak-OrganizationsApp.iml" filepath="$PROJECT_DIR$/spring-20-REST-Security-Keycloak-OrganizationsApp/spring-20-REST-Security-Keycloak-OrganizationsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-21-AOP/spring-21-AOP.iml" filepath="$PROJECT_DIR$/spring-21-AOP/spring-21-AOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-training-git.iml" filepath="$PROJECT_DIR$/.idea/spring-training-git.iml" />
     </modules>
   </component>
