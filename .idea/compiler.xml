@@ -16,6 +16,7 @@
         <module name="spring-21-AOP" />
         <module name="spring-05-Core-Abstraction" />
         <module name="Spring-18-REST-OpenAPI3" />
+        <module name="spring-22-UnitTesting-JUnit5" />
         <module name="spring-09-MVC-Model" />
         <module name="spring-00-coupling" />
         <module name="Spring-15-REST" />
@@ -57,6 +58,7 @@
       <module name="spring-20-REST-Security-Keycloak-LicenseApp" target="11" />
       <module name="spring-20-REST-Security-Keycloak-OrganizationsApp" target="11" />
       <module name="spring-21-AOP" target="11" />
+      <module name="spring-22-UnitTesting-JUnit5" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
