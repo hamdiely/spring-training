@@ -32,6 +32,7 @@
         <module name="spring-14-Data-Queries" />
         <module name="spring-04-Autowiring" />
         <module name="spring-07-SpringBoot-Demo" />
+        <module name="spring-24-UnitTesting-MockMVC" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -60,6 +61,7 @@
       <module name="spring-20-REST-Security-Keycloak-OrganizationsApp" target="11" />
       <module name="spring-21-AOP" target="11" />
       <module name="spring-22-UnitTesting-JUnit5" target="11" />
+      <module name="spring-24-UnitTesting-MockMVC" target="11" />
       <module name="ticketing-project-data" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -82,6 +84,7 @@
       <module name="spring-20-REST-Security-Keycloak-LicenseApp" options="-parameters" />
       <module name="spring-20-REST-Security-Keycloak-OrganizationsApp" options="-parameters" />
       <module name="spring-21-AOP" options="-parameters" />
+      <module name="spring-24-UnitTesting-MockMVC" options="-parameters" />
       <module name="ticketing-project-data" options="-parameters" />
     </option>
   </component>
